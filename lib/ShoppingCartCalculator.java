@@ -3,10 +3,6 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * Calculates the total price of the items in a given shopping cart.
- * The total is calculated by summing up the price of each item, taking
- * into account any applicable discounts (Bulk or Buy-One-Get-One-Free).
- * If the cart is null or empty, 0.0 is returned.
  * @author 66721601184 || Tanakorn Trongkington
  */
 public class ShoppingCartCalculator {
